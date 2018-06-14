@@ -24,8 +24,6 @@
 * 4-a _`system`_ répond  _`paiement refusé`_ : **retour à l'étape 1**
 
 ## Post-conditions
-* Commande annulée :
-    - pas d'enregistrement en BDD
 * Statut de la commande à [`New`] :
     - enregistrement en BDD
 
