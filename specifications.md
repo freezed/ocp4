@@ -113,34 +113,35 @@ _State machine diagram_:
 ![State machine diagram - order](https://raw.githubusercontent.com/freezed/ocp4/master/img/0230-uml-order-state_diagram.png)
 
 #### Use case description [payment]
-![Use case description - payment](https://raw.githubusercontent.com/freezed/ocp4/master/img/0291-uml-order-use_case_descriptif-payment.png)
+![Use case description - payment](https://raw.githubusercontent.com/freezed/ocp4/master/img/0291-uml-order-use_case_description-payment_1-2.png)
+![Use case description - payment](https://raw.githubusercontent.com/freezed/ocp4/master/img/0291-uml-order-use_case_description-payment_2-2.png)
 
-[Use case description - payment](https://github.com/freezed/ocp4/blob/master/0290-uml-order-use_case_description-payment.md)
+[Use case description - payment](https://github.com/freezed/ocp4/blob/master/0291-uml-order-use_case_description-payment.md)
 
 #### Use case description [creditCard]
-![Use case description - creditCard](https://raw.githubusercontent.com/freezed/ocp4/master/img/0292-uml-order-use_case_descriptif-credit_card.png)
+![Use case description - creditCard](https://raw.githubusercontent.com/freezed/ocp4/master/img/0292-uml-order-use_case_description-credit_card.png)
 
-[Use case description - creditCard](https://github.com/freezed/ocp4/blob/master/0292-uml-order-use_case_descriptif-credit_card.md)
+[Use case description - creditCard](https://github.com/freezed/ocp4/blob/master/0292-uml-order-use_case_description-credit_card.md)
 
 #### Use case description [check]
-![Use case description - check](https://raw.githubusercontent.com/freezed/ocp4/master/img/0293-uml-order-use_case_descriptif-check.png)
+![Use case description - check](https://raw.githubusercontent.com/freezed/ocp4/master/img/0293-uml-order-use_case_description-check.png)
 
-[Use case description - check](https://github.com/freezed/ocp4/blob/master/)
+[Use case description - check](https://github.com/freezed/ocp4/blob/master/0293-uml-order-use_case_description-check.md)
 
 #### Use case description [cash]
-![Use case description - cash](https://raw.githubusercontent.com/freezed/ocp4/master/img/0294-uml-order-use_case_descriptif-cash.png)
+![Use case description - cash](https://raw.githubusercontent.com/freezed/ocp4/master/img/0294-uml-order-use_case_description-cash.png)
 
-[Use case description - cash](https://github.com/freezed/ocp4/blob/master/)
+[Use case description - cash](https://github.com/freezed/ocp4/blob/master/0294-uml-order-use_case_description-cash.md)
 
 #### Use case description [select]
-![Use case description - select](https://raw.githubusercontent.com/freezed/ocp4/master/img/0295-uml-order-use_case_descriptif-select.png)
+![Use case description - select](https://raw.githubusercontent.com/freezed/ocp4/master/img/0295-uml-order-use_case_description-select.png)
 
-[Use case description - select](https://github.com/freezed/ocp4/blob/master/)
+[Use case description - select](https://github.com/freezed/ocp4/blob/master/0295-uml-order-use_case_description-select.md)
 
 #### Use case description [view]
-![Use case description - view](https://raw.githubusercontent.com/freezed/ocp4/master/img/0296-uml-order-use_case_descriptif-view.png)
+![Use case description - view](https://raw.githubusercontent.com/freezed/ocp4/master/img/0296-uml-order-use_case_description-view.png)
 
-[Use case description - view](https://github.com/freezed/ocp4/blob/master/)
+[Use case description - view](https://github.com/freezed/ocp4/blob/master/0296-uml-order-use_case_description-view.md)
 
 #### Activity [createOrder] : Création de commande
 _Activity diagram_:
