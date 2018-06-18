@@ -72,17 +72,17 @@ _Use case diagram_:
 ---
 ## Solution technique
 
-Pour une mise en œuvre fiable, efficace et évolutive des besoins clients décrit ci dessus, il est proposé d'utiliser un ensemble de technologies web parmis les plus fiable et au dévelopement très actif.
+Pour une mise en œuvre fiable, efficace et évolutive des besoins clients décrit ci dessus, il est proposé d'utiliser un ensemble de technologies web parmi les plus fiable et au développement très actif.
 
 
 ### [Django framework](https://www.djangoproject.com/start/overview/)
 
-Django est un framework web libre et open-source, écrit en Python facilitant la création de sites Web complexes, reposant sur des bases de données. Django met l'accent sur la réutilisabilité et la "pluggabilité" des composants, moins de code, un développement rapide, et le principe DRY.
+Django est un framework web libre et open-source, écrit en Python facilitant la création de sites Web complexes, reposant sur des bases de données. Django met l'accent sur la ré-utilisabilité et la "pluggabilité" des composants, moins de code, un développement rapide, et le principe DRY.
 
 
 ### [Apache HTTP server](https://httpd.apache.org/)
 
-Le serveur HTTP Apache, communément appelé Apache, est un serveur web multiplateforme libre et open-source. Il est multiplateforme.
+Le serveur HTTP Apache, communément appelé Apache, est un serveur web multi-plateforme libre et open-source. Il est multi-plateforme.
 
 Il a joué un rôle clé dans la croissance initiale du World Wide Web et est resté le plus populaire depuis avril 1996. En juillet 2016, on estimait qu'il desservait 46 % de tous les sites Web actifs et 43 % des millions de sites Web les plus actifs.
 
