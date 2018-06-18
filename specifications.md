@@ -90,17 +90,17 @@ _Activity diagram_:
 #### Activity [addEmployee] : Création d'un salarié
 _Activity diagram_:
 
-![Activity diagram - addEmployee](https://raw.githubusercontent.com/freezed/ocp4/master/img/)
+![Activity diagram - logInEmployee](https://raw.githubusercontent.com/freezed/ocp4/master/img/0125-uml-account-diagram_activity-add_employee.png)
 
 #### Activity [editEmployee] : Modification d'un salarié
 _Activity diagram_:
 
-![Activity diagram - logInEmployee](https://raw.githubusercontent.com/freezed/ocp4/master/img/0125-uml-account-diagram_activity-add_employee.png)
+![Activity diagram - addEmployee](https://raw.githubusercontent.com/freezed/ocp4/master/img/0124-uml-account-diagram_activity-edit_employee.png)
 
 #### Activity [logInEmployee] : Connection d'un salarié
 _Activity diagram_:
 
-![Activity diagram - editEmployee](https://raw.githubusercontent.com/freezed/ocp4/master/img/0124-uml-account-diagram_activity-edit_employee.png)
+![Activity diagram - editEmployee](https://raw.githubusercontent.com/freezed/ocp4/master/img/0121-uml-account-diagram_activity-log_in_employee.png)
 
 ---
 ### Package [order]
@@ -110,10 +110,15 @@ _Activity diagram_:
 ##### _Use case diagram_
 ![Use case - manageOrder](https://raw.githubusercontent.com/freezed/ocp4/master/img/0210-uml-order-use_case_diagram.png)
 
-#### State machine diagram [Order] : États d'une commande
-_State machine diagram_:
+#### Activity [getAvaiablePizzas] : Pizza disponibles
+_Activity diagram_:
 
-![State machine diagram - order](https://raw.githubusercontent.com/freezed/ocp4/master/img/0230-uml-order-state_diagram.png)
+![Activity diagram - getAvaiablePizzas](https://raw.githubusercontent.com/freezed/ocp4/master/img/0323-uml-ingredient-diagram_activity-get_avaiable_pizza.png)
+
+#### Activity [createOrder] : Création de commande
+_Activity diagram_:
+
+![Activity diagram - createOrder](https://raw.githubusercontent.com/freezed/ocp4/master/img/0221-uml-order-diagram_activity-create.png)
 
 #### Use case description [payment]
 ![Use case description - payment](https://raw.githubusercontent.com/freezed/ocp4/master/img/0291-uml-order-use_case_description-payment_1-2.png)
@@ -141,10 +146,10 @@ _State machine diagram_:
 ![Use case description - view](https://raw.githubusercontent.com/freezed/ocp4/master/img/0296-uml-order-use_case_description-view.png)
 [_(Lien vers le fichier)_][6]
 
-#### Activity [createOrder] : Création de commande
-_Activity diagram_:
+#### State machine diagram [Order] : États d'une commande
+_State machine diagram_:
 
-![Activity diagram - createOrder](https://raw.githubusercontent.com/freezed/ocp4/master/img/0221-uml-order-diagram_activity-create.png)
+![State machine diagram - order](https://raw.githubusercontent.com/freezed/ocp4/master/img/0230-uml-order-state_diagram.png)
 
 ---
 ### Package [ingredient]
@@ -159,11 +164,6 @@ _Use case diagram_:
 _Activity diagram_:
 
 ![Activity diagram - ingredientLoop](https://raw.githubusercontent.com/freezed/ocp4/master/img/0322-uml-ingredient-diagram_activity-loop.png)
-
-#### Activity [getAvaiablePizzas] : catalogue des pizza
-_Activity diagram_:
-
-![Activity diagram - getAvaiablePizzas](https://raw.githubusercontent.com/freezed/ocp4/master/img/0323-uml-ingredient-diagram_activity-get_avaiable_pizza.png)
 
 #### Activity [updateStock] : mise à jour du stock
 _Activity diagram_:
