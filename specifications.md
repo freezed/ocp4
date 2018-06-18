@@ -175,6 +175,39 @@ _Activity diagram_:
 
 ![Activity diagram - ingredientOut](https://raw.githubusercontent.com/freezed/ocp4/master/img/0325-uml-ingredient-diagram_activity-ingredient_out.png)
 
+---
+## Solution technique
+
+Pour une mise en œuvre fiable, efficace et évolutive des besoins clients décrit ci dessus, il est proposé d'utiliser un ensemble de technologies web parmis les plus fiable et au dévelopement très actif.
+
+
+### [Django framework](https://www.djangoproject.com/start/overview/)
+
+Django est un framework web libre et open-source, écrit en Python facilitant la création de sites Web complexes, reposant sur des bases de données. Django met l'accent sur la réutilisabilité et la "pluggabilité" des composants, moins de code, un développement rapide, et le principe DRY.
+
+
+### [Apache HTTP server](https://httpd.apache.org/)
+
+Le serveur HTTP Apache, communément appelé Apache, est un serveur web multiplateforme libre et open-source. Il est multiplateforme.
+
+Il a joué un rôle clé dans la croissance initiale du World Wide Web et est resté le plus populaire depuis avril 1996. En juillet 2016, on estimait qu'il desservait 46 % de tous les sites Web actifs et 43 % des millions de sites Web les plus actifs.
+
+### [MariaDB](https://mariadb.org/)
+
+MariaDB Server est l'un des serveurs de bases de données les plus populaires au monde. Il s'agit d'un remplacement amélioré de MySQL. MariaDB est utilisé parce qu'il est rapide, évolutif et robuste, avec un riche écosystème de moteurs de stockage, de plugins et de nombreux autres outils qui le rendent très polyvalent pour une grande variété de cas d'utilisation. Il fournit une interface SQL pour accéder aux données.
+Les principaux utilisateurs sont Wikipedia, WordPress.com et Google.
+
+
+
+### [Debian GNU/Linux](https://debian.org)
+
+Debian est une distribution GNU/Linux, lancée en 1993 avec le soutien de la Free Software Foundation. C'est un système d'exploitation d'ordinateur de type Unix, entièrement composé de logiciels libres. Orientée serveurs, elle est réputée pour sa stabilité et sa sécurité.
+
+### [PayPal](https://www.paypal.com/)
+
+PayPal est un service de paiement en ligne qui permet (entre autre) de payer des achats sans avoir à recommuniquer ses coordonnées bancaires, une adresse de courrier électronique et un mot de passe étant suffisants.
+Paypal est accepté comme moyen de paiement par plus de 16 millions de commerçants dans le monde. Plus de 203 millions de particuliers se servent de PayPal pour acheter, vendre ou envoyer de l'argent.
+
 
 [1]: https://github.com/freezed/ocp4/blob/master/0291-uml-order-use_case_description-payment.md "Use case description - payment"
 [2]: https://github.com/freezed/ocp4/blob/master/0292-uml-order-use_case_description-credit_card.md "Use case description - creditCard"
