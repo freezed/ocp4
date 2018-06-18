@@ -1,4 +1,4 @@
--[_Open Classrooms courses_](https://openclassrooms.com/projects/analysez-les-besoins-de-votre-client-pour-son-groupe-de-pizzerias)-
+-[_Parcours Open Classrooms_](https://openclassrooms.com/projects/analysez-les-besoins-de-votre-client-pour-son-groupe-de-pizzerias)-
 
 # [PyDev] Projet 4
 
