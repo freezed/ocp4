@@ -25,9 +25,3 @@
 ## Post-conditions
 
 * Commande sélectionnée
-
-## Compléments
-
-### Ergonomie / Performance attendue /Problèmes non résolus
-
-(…)
