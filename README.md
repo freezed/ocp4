@@ -4,6 +4,17 @@
 
 ## Analysez les besoins de votre client pour son groupe de pizzerias
 
+### Livrables attendus
+
+* Un [document de spécifications fonctionnelles](https://github.com/freezed/ocp4/blob/master/specifications.md) comprenant :
+    - les différents acteurs interagissant avec le futur système
+    - le descriptif des fonctionnalités
+    - les règles de gestion fonctionnelles
+    - le cycle de vie des commandes
+* Un [document de présentation rapide](https://github.com/freezed/ocp4/blob/master/presentation.md) comprenant :
+    - la solution fonctionnelle
+    - la solution technique retenue ainsi que les arguments motivant ces choix
+
 ---
 
 ### Contexte
@@ -33,12 +44,3 @@ En tant qu’analyste-programmeur, votre travail consiste, à ce stade, à analy
 * choisir une solution technique adaptée (vous présenterez vos choix ainsi qu’une argumentation rapide motivant ceux-ci)
 
 Vous vous appuierez sur UML pour réaliser cette analyse et élaborer les spécifications fonctionnelles. L’utilisation des Personas et la réalisation d’un impact-mapping n’est pas exclue si cela peut vous aider dans votre analyse du besoin.
-
-### Livrables attendus
-
-* Un document de spécifications fonctionnelles comprenant :
-    - les différents acteurs interagissant avec le futur système
-    - le descriptif des fonctionnalités
-    - les règles de gestion fonctionnelles
-    - le cycle de vie des commandes
-* Un document – sans formalisme particulier mais un document à la présentation soignée – présentant rapidement la solution fonctionnelle et technique retenue ainsi que les arguments motivant ces choix.
