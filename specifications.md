@@ -72,32 +72,35 @@ Le ~~client~~ a déjà fait une petite prospection et les logiciels existants qu
 ![Package diagram - OC Pizza](https://raw.githubusercontent.com/freezed/ocp4/master/img/0003-uml-global-package_diagram.png)
 
 ---
-### Common activity [CRUD] v1
-![Activity diagram - CRUD](https://raw.githubusercontent.com/freezed/ocp4/master/img/0004-uml-global-use_case-crud.png)
-
-### Common activity [CRUD] v2
-![Activity diagram - CRUD](https://raw.githubusercontent.com/freezed/ocp4/master/img/0004-uml-global-use_case-crud-bis.png)
-
----
 ### Package [account]
 _Use case diagram_:
 
 ![Use case - account](https://raw.githubusercontent.com/freezed/ocp4/master/img/0110-uml-account-use_case_diagram.png)
 
-#### Activity [logIn] : Connection compte client
+#### Activity [signIn] : Création d'un client
 _Activity diagram_:
 
-![Activity diagram - logIn](https://raw.githubusercontent.com/freezed/ocp4/master/img/0121-uml-account-diagram_activity-log_in.png)
+![Activity diagram - signIn](https://raw.githubusercontent.com/freezed/ocp4/master/img/0123-uml-account-diagram_activity-sign_in.png)
 
-#### Activity [siqnIn] : Création d'un compte client
+#### Activity [logInClient] : Connection d'un client
 _Activity diagram_:
 
-![Activity diagram - signIn](https://raw.githubusercontent.com/freezed/ocp4/master/img/0122-uml-account-diagram_activity-sign_in.png)
+![Activity diagram - logInClient](https://raw.githubusercontent.com/freezed/ocp4/master/img/0122-uml-account-diagram_activity-log_in_client.png)
 
-#### Activity [connect] : Connection compte client
+#### Activity [addEmployee] : Création d'un salarié
 _Activity diagram_:
 
-![Activity diagram - connect](https://raw.githubusercontent.com/freezed/ocp4/master/img/0123-uml-account-diagram_activity-connect.png)
+![Activity diagram - addEmployee](https://raw.githubusercontent.com/freezed/ocp4/master/img/)
+
+#### Activity [editEmployee] : Modification d'un salarié
+_Activity diagram_:
+
+![Activity diagram - logInEmployee](https://raw.githubusercontent.com/freezed/ocp4/master/img/0125-uml-account-diagram_activity-add_employee.png)
+
+#### Activity [logInEmployee] : Connection d'un salarié
+_Activity diagram_:
+
+![Activity diagram - editEmployee](https://raw.githubusercontent.com/freezed/ocp4/master/img/0124-uml-account-diagram_activity-edit_employee.png)
 
 ---
 ### Package [order]
