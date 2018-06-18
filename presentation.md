@@ -1,5 +1,9 @@
 # OC Pizza - Présentation
 
+## Préambule
+
+_La dernière version à jour de ce document est disponible sur [github](https://github.com/freezed/ocp4/blob/master/presentation.md)._
+
 _Ce document est une synthèse de présentation du projet, pour plus de détails, vous pourrez suivre les liens proposé ou plus simplement consulter le [document de spécification fonctionnelles](https://github.com/freezed/ocp4/blob/master/specifications.md)._
 
 ## Modélisation UML

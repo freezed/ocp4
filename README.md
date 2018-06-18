@@ -2,6 +2,10 @@
 
 # [PyDev] Projet 4
 
+## Préambule
+
+_La dernière version à jour de ce document est disponible sur [github](https://github.com/freezed/ocp4/blob/master/README.md)._
+
 ## Analysez les besoins de votre client pour son groupe de pizzerias
 
 ### Livrables attendus
