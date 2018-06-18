@@ -1,4 +1,7 @@
-# OC Pizza - Étude du besoin (UML)
+# OC Pizza - Spécifications fonctionnelles
+
+_Ce document détaille les spécifications fonctionnelles du projet, pour une présentation plus rapide, voir la [synthèse de présentation](https://github.com/freezed/ocp4/blob/master/presentation.md)._
+
 
 ## Contexte
 
