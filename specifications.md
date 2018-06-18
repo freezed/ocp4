@@ -165,10 +165,15 @@ _Activity diagram_:
 
 ![Activity diagram - ingredientLoop](https://raw.githubusercontent.com/freezed/ocp4/master/img/0322-uml-ingredient-diagram_activity-loop.png)
 
-#### Activity [updateStock] : mise à jour du stock
+#### Activity [ingredientIn] : Ajout d'ingredient
 _Activity diagram_:
 
-![Activity diagram - updateStock](https://raw.githubusercontent.com/freezed/ocp4/master/img/)
+![Activity diagram - ingredientIn](https://raw.githubusercontent.com/freezed/ocp4/master/img/0324-uml-ingredient-diagram_activity-ingredient_in.png)
+
+#### Activity [ingredientOut] : Mise à jour d'ingrédient
+_Activity diagram_:
+
+![Activity diagram - ingredientOut](https://raw.githubusercontent.com/freezed/ocp4/master/img/0325-uml-ingredient-diagram_activity-ingredient_out.png)
 
 
 [1]: https://github.com/freezed/ocp4/blob/master/0291-uml-order-use_case_description-payment.md "Use case description - payment"
